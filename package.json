@@ -2,8 +2,6 @@
   "name": "relax",
 <<<<<<< HEAD
   "version": "5.0.0",
-=======
-  "version": "0.0.2",
 >>>>>>> dad7042972dbd65784eb00312f03c20f364ece7f
   "description": "New generation CMS on top of React and Node.js",
   "license": "GPL-3.0",
